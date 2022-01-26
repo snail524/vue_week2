@@ -28,7 +28,7 @@ const app = {
                 // console.log(res);
             })
             .catch(err=>{
-                window.location='./login.html';
+                window.location='login.html';
             })
 
         }
